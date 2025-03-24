@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dotnet-menosrelato": {
+      "commandName": "Project",
+      "commandLineArgs": "quote -d \"C:\\Users\\danie\\OneDrive\\Proyectos\\Menos Relato\\Quotes\""
+    }
+  }
+}
