@@ -1,6 +1,9 @@
 <Project>
 
   <PropertyGroup>
+    <ImplicitUsings>true</ImplicitUsings>
+    <LangVersion>Preview</LangVersion>
+
     <!-- Clear suffix to get clean 42.42.* versions from main for easier install/update -->
     <VersionSuffix Condition="$(VersionSuffix) == 'main'"></VersionSuffix>
   </PropertyGroup>
